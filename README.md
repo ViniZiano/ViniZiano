@@ -8,22 +8,24 @@
 
 📚 Áreas de interesse: desenvolvimento web, back-end, banco de dados e boas práticas de versionamento.<br>
 
-Tecnologias<br>
+## Tecnologias<br>
+
 Back-end
 
-Java
+* Java
+* Php(básico) 
 
 Banco de Dados
 
-MySQL
+* MySQL
 
 Front-end
 
-HTML
-CSS
-JavaScript
+* HTML
+* CSS
+* JavaScript
 
 Versionamento
 
-Git
-GitHub
+* Git
+* GitHub
