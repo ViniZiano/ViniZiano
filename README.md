@@ -7,3 +7,23 @@
 🚀 Busco aplicar meus conhecimentos em projetos que agreguem valor e ampliem minhas habilidades técnicas e profissionais.<br>
 
 📚 Áreas de interesse: desenvolvimento web, back-end, banco de dados e boas práticas de versionamento.<br>
+
+Tecnologias<br>
+Back-end
+
+Java
+
+Banco de Dados
+
+MySQL
+
+Front-end
+
+HTML
+CSS
+JavaScript
+
+Versionamento
+
+Git
+GitHub
