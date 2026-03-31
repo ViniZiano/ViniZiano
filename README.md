@@ -1,33 +1,29 @@
-## Olá, Me chamo Vinícius 👋🤓
+## Olá, eu sou o Vinícius 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas, com interesse em desenvolvimento de software e soluções tecnológicas.<br>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (5º período) 
 
-💻 Tenho me dedicado ao aprendizado contínuo em linguagens de programação, boas práticas de código e ferramentas modernas de desenvolvimento.<br>
+💻 Focado em desenvolvimento Back-end com Java e Spring Boot
 
-🚀 Busco aplicar meus conhecimentos em projetos que agreguem valor e ampliem minhas habilidades técnicas e profissionais.<br>
-    Bom em trabalho em equipe<br>
+🚀 Tenho experiência na criação de APIs REST com autenticação JWT, integração com banco de dados MySQL e aplicação de boas práticas de desenvolvimento.
 
 
-📚 Áreas de interesse: desenvolvimento web, back-end, banco de dados e boas práticas de versionamento.<br>
+## 🛠️ Tecnologias:
 
-## Tecnologias<br>
+Back-end: Java, Spring Boot, PHP (básico)
 
-Back-end
+Banco de Dados: MySQL
 
-* Java
-* Php(básico) 
+Front-end: HTML, CSS, JavaScript
 
-Banco de Dados
+Versionamento: Git e GitHub
 
-* MySQL
 
-Front-end
 
-* HTML
-* CSS
-* JavaScript
+📌 Atualmente buscando oportunidade como Desenvolvedor Back-end Júnior.
 
-Versionamento
 
-* Git
-* GitHub
+📫 Contato:
+
+LinkedIn: https://www.linkedin.com/in/vinícius-ziano/
+
+Email: viniciusziano2267@gmail.com
