@@ -1,6 +1,6 @@
 ## Olá, eu sou o Vinícius 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (5º período) 
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (6º período) 
 
 💻 Focado em desenvolvimento Back-end com Java e Spring Boot
 
