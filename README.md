@@ -15,7 +15,7 @@
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (6º período)
 - 💻 Focado em desenvolvimento **Back-end** com **Java** e **Spring Boot**
 - 🔗 Experiência na criação de **APIs REST** com autenticação **JWT**, integração com **MySQL** e boas práticas de desenvolvimento
-- 🌐 Também crio sites e interfaces em **HTML, CSS e JavaScript**
+- 🌐 Também atuo como freelancer criando sites e interfaces em **HTML, CSS e JavaScript**
 - 📌 Atualmente buscando oportunidade como **Desenvolvedor Back-end Júnior**
 - ⚡ Fun fact: sempre em busca de aprender algo novo em programação
 
@@ -33,23 +33,34 @@
 
 <div align="center">
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniZiano&repo=sistema-bancario-java&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/ViniZiano/Sistema-Bancario-Java">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniZiano&repo=Sistema-Bancario-Java&theme=tokyonight&hide_border=true" />
 </a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniZiano&repo=devtasks-api&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/ViniZiano/Devtasks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniZiano&repo=Devtasks&theme=tokyonight&hide_border=true" />
 </a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniZiano&repo=anjos-do-poco&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/ViniZiano/Ong-Anjos-Do-Poco">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniZiano&repo=Ong-Anjos-Do-Poco&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
-> 💡 **Dica:** troque `viniciusziano` e os nomes dos repositórios (`sistema-bancario-java`, `devtasks-api`, `anjos-do-poco`) pelo seu usuário real e pelos nomes exatos dos repositórios no GitHub para que os cards carreguem automaticamente.
+<div align="center">
 
-- 🏦 **Sistema Bancário Java** — sistema bancário com back-end em Java, com interface web própria em HTML/CSS/JS
-- ✅ **DevTasks API** — API REST para gerenciamento de tarefas
-- 🐾 **Anjos do Poço** — site institucional para ONG de adoção de animais (HTML/CSS/JS, Node.js, SQLite)
+<a href="https://github.com/ViniZiano/Calculadora-JS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniZiano&repo=Calculadora-JS&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/ViniZiano/ViniZiano.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniZiano&repo=ViniZiano.github.io&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+- 🏦 **[Sistema-Bancario-Java](https://github.com/ViniZiano/Sistema-Bancario-Java)** — sistema bancário em Java com foco em POO (contas, depósitos, saques, transferências)
+- ✅ **[Devtasks](https://github.com/ViniZiano/Devtasks)** — API REST com Spring Boot para gerenciamento de tarefas, com autenticação JWT e CRUD completo
+- 🐾 **[Ong-Anjos-Do-Poco](https://github.com/ViniZiano/Ong-Anjos-Do-Poco)** — site institucional para ONG de adoção de animais (projeto da faculdade)
+- 🧮 **[Calculadora-JS](https://github.com/ViniZiano/Calculadora-JS)** — calculadora completa feita em JavaScript
+- 🌐 **[ViniZiano.github.io](https://github.com/ViniZiano/ViniZiano.github.io)** — meu portfólio pessoal
 
 ---
 
@@ -61,21 +72,19 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusziano&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniZiano&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=viniciusziano&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ViniZiano&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
-
-> ⚠️ Substitua `viniciusziano` pelo seu usuário real do GitHub nos links acima para os gráficos carregarem com seus dados.
 
 ---
 
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ViniZiano/viniciusziano/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/ViniZiano/ViniZiano/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 <details>
@@ -83,10 +92,10 @@
 
 <br>
 
-1. Crie um repositório especial com o mesmo nome do seu usuário (ex: `viniciusziano/viniciusziano`) — é ele que vira seu perfil do GitHub.
-2. Dentro dele, crie a pasta `.github/workflows/` e adicione um arquivo `snake.yml` usando a action [`Platane/snk`](https://github.com/Platane/snk).
-3. Faça o commit — a action vai gerar automaticamente o SVG animado com base no seu histórico de contribuições.
-4. O link da imagem acima já aponta para o branch `output` gerado pela action.
+1. No seu repositório especial `ViniZiano/ViniZiano` (o que vira seu perfil do GitHub), crie a pasta `.github/workflows/`.
+2. Adicione um arquivo `snake.yml` usando a action [`Platane/snk`](https://github.com/Platane/snk) — dá pra copiar o exemplo direto da documentação da action.
+3. Faça o commit — a action roda automaticamente e gera o SVG animado com base no seu histórico de contribuições, publicando no branch `output`.
+4. O link da imagem acima já aponta para esse branch, então assim que a action rodar a animação aparece sozinha.
 
 </details>
 
