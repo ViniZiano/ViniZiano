@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Olá,%20eu%20sou%20o%20Vinícius%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Olá,%20eu%20sou%20Vinícius%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
 <br>
 
@@ -24,20 +24,12 @@
 
 ## 👨‍💻 Sobre mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no **6º período**.
-
-💻 Meu foco principal é o desenvolvimento **Back-end com Java e Spring Boot**, criando APIs REST e sistemas organizados em camadas.
-
-🔐 Tenho experiência prática com **Spring Security, JWT, Spring Data JPA, autenticação e CRUDs**.
-
-🗄️ Trabalho com bancos de dados relacionais como **MySQL e PostgreSQL**, além de SQL.
-
-🌐 Também desenvolvo interfaces e sites utilizando **HTML, CSS e JavaScript**, incluindo projetos pessoais e trabalhos como freelancer.
-
-📚 Gosto de aprender através da prática e transformar conceitos de programação em projetos funcionais.
-
-🎯 Atualmente estou buscando minha **primeira oportunidade profissional na área de desenvolvimento**, onde possa continuar evoluindo e contribuir com projetos reais.
-
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (6º período)
+- 💻 Focado em desenvolvimento **Back-end** com **Java** e **Spring Boot**
+- 🔗 Experiência na criação de **APIs REST** com autenticação **JWT**, integração com **MySQL** e boas práticas de desenvolvimento
+- 🌐 Também atuo como freelancer criando sites e interfaces em **HTML, CSS e JavaScript**
+- 📌 Atualmente buscando oportunidade como **Desenvolvedor Back-end Júnior**
+- ⚡ Fun fact: sempre em busca de aprender algo novo em programação
 ---
 
 ## 🛠️ Tech Stack
@@ -274,7 +266,6 @@ Meu portfólio pessoal, desenvolvido para apresentar minha trajetória, conhecim
 
 </div>
 
-> 💡 A animação da cobrinha é gerada automaticamente por uma GitHub Action no repositório do perfil.
 
 ---
 
